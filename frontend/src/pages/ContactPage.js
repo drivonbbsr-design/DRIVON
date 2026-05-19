@@ -94,6 +94,37 @@ function ContactPage() {
             </a>
           </div>
         </div>
+
+        <div className="contact-card address-card">
+          <h3 className="contact-heading">
+            <span className="contact-icon">📍</span>
+            Office Address
+          </h3>
+
+          <div className="address-box">
+            <h4>Primary Office</h4>
+            <p>
+              Plot no - 1923, Satya Vihar, Canal Road, Near Mosque,
+              VTC - Rasulgarh , PO - Rasulgarh Bhubaneswar,
+              Khordha (Odisha) - 751010
+            </p>
+          </div>
+
+          <div className="address-box secondary-address">
+            <h4>Secondary Office</h4>
+            <p>
+              Twincity Township, Barang, Trisulia, Cuttack (Odisha) - 754005
+            </p>
+          </div>
+
+          <a
+            href="https://maps.google.com"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button className="location-btn">Open Location</button>
+          </a>
+        </div>
       </section>
 
       <section className="enquiry-section">

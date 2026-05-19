@@ -183,3 +183,59 @@
     transform: scale(1.15);
   }
 }
+.address-card {
+  text-align: left;
+}
+
+.address-box {
+  margin-top: 18px;
+  padding: 16px;
+  border-radius: 16px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.08);
+  transition: 0.3s ease;
+}
+
+.address-box:hover {
+  transform: translateY(-4px);
+  background: rgba(255,255,255,0.08);
+}
+
+.address-box h4 {
+  color: #ffe082;
+  margin-bottom: 10px;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.address-box p {
+  color: #dbe7ff;
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+.secondary-address h4 {
+  color: #7df9ff;
+}
+
+.location-btn {
+  width: 100%;
+  margin-top: 20px;
+  padding: 14px;
+  border: none;
+  border-radius: 12px;
+  background: linear-gradient(
+    135deg,
+    #00c853,
+    #00e676
+  );
+  color: #08111f;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.location-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(0, 230, 118, 0.35);
+}
