@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Thar RWD",
+    "price": 2700,
+    "rentPerHour": 360,
+    "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb"
+  },
+  {
+    "id": 2,
+    "name": "Thar 4x4",
+    "price": 2900,
+    "rentPerHour": 380,
+    "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb"
+  },
+  {
+    "id": 3,
+    "name": "Thar Roxx",
+    "price": 3100,
+    "rentPerHour": 410,
+    "image": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb"
+  },
+  {
+    "id": 4,
+    "name": "Scorpio Classic",
+    "price": 2700,
+    "rentPerHour": 350,
+    "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24"
+  },
+  {
+    "id": 5,
+    "name": "Scorpio N",
+    "price": 2900,
+    "rentPerHour": 380,
+    "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24"
+  },
+  {
+    "id": 6,
+    "name": "Xuv 700",
+    "price": 2900,
+    "rentPerHour": 410,
+    "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a"
+  },
+  {
+    "id": 7,
+    "name": "Venue Sunroof",
+    "price": 1800,
+    "rentPerHour": 260,
+    "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027"
+  },
+  {
+    "id": 8,
+    "name": "Sonet",
+    "price": 1800,
+    "rentPerHour": 260,
+    "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027"
+  },
+  {
+    "id": 9,
+    "name": "Breeza",
+    "price": 1800,
+    "rentPerHour": 260,
+    "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027"
+  },
+  {
+    "id": 10,
+    "name": "Fronx",
+    "price": 1500,
+    "rentPerHour": 220,
+    "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027"
+  },
+  {
+    "id": 11,
+    "name": "Nexon",
+    "price": 1800,
+    "rentPerHour": 260,
+    "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027"
+  },
+  {
+    "id": 12,
+    "name": "Verna",
+    "price": 1800,
+    "rentPerHour": 250,
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+  },
+  {
+    "id": 13,
+    "name": "City",
+    "price": 1800,
+    "rentPerHour": 250,
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+  }
+]
