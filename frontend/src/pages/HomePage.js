@@ -100,7 +100,7 @@ function HomePage() {
       return;
     }
 
-    const phoneNumber = "918260416646";
+    const phoneNumber = "917653971367";
 
     const message = `Hello, I want to book a car.
 
@@ -142,7 +142,7 @@ Details: ${formData.details}`;
 
             <div className="offer-marquee">
               <div className="offer-track">
-                🚗 GET <span>50% OFF</span> ON YOUR FIRST RIDE • BOOK NOW • PREMIUM CARS • LIMITED TIME OFFER • 🚗 GET <span>50% OFF</span> ON YOUR FIRST RIDE • BOOK NOW • PREMIUM CARS • LIMITED TIME OFFER •
+                🚗 GET <span> UP to 20% OFF</span> ON YOUR FIRST RIDE • BOOK NOW • PREMIUM CARS • LIMITED TIME OFFER • 🚗 GET <span>UP to 50% OFF</span> ON YOUR FIRST RIDE • BOOK NOW • PREMIUM CARS • LIMITED TIME OFFER •
               </div>
             </div>
 
